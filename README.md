@@ -14,3 +14,5 @@
 - Youtube > https://www.youtube.com/@NeedForThrottleUnderchase
 
 - Itch > https://projonyz.itch.io/need-for-throttle-underchase
+
+![Background](/shots/gamebackground.png)
