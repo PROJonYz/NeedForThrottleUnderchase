@@ -1,4 +1,4 @@
-![Logo](/shots/gamelogo.png)
+![Logo](/shots/gamebackground.png)
 
 - Open world racing game, which is made in Godot Engine by one developer (myself)
 - Updates and information about project, you can find in my Discord channel
@@ -14,5 +14,3 @@
 - Youtube > https://www.youtube.com/@NeedForThrottleUnderchase
 
 - Itch > https://projonyz.itch.io/need-for-throttle-underchase
-
-![Background](/shots/gamebackground.png)
