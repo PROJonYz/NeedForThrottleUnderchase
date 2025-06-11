@@ -1,4 +1,4 @@
-Need For Throttle Underchase
+![Logo](/shots/gamelogo.png)
 
 - Open world racing game, which is made in Godot Engine by one developer (myself)
 - Updates and information about project, you can find in my Discord channel
