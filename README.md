@@ -5,7 +5,7 @@
 
 #History
 - Project started in 2021 as a school project"
-- Project is still actively updating since January 2023 and is heavily inspired mostly from NFS Underground 2 & NFS Carbon
+- Project is still actively updating since January 2023 and is heavily inspired from NFS Underground 2
 
 
 #Links:
