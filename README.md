@@ -4,7 +4,7 @@
 - Updates and information about project, you can find in my Discord channel
 
 #History
-- Project started in 2021 as a school project"
+- Project started in 2021 as a school project
 - Project is still actively updating since January 2023 and is heavily inspired from NFS Underground 2
 
 
